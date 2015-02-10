@@ -62,7 +62,7 @@ cMacros = [
   "$s = [a-z\\222-\\255] # [\\247]    -- small isolatin1 letter FIXME",
   "$d = [0-9]                -- digit",
   "$i = [$l $d _ ']          -- identifier character",
-  "$u = [\\0-\\255]          -- universal: any character"
+  "$u = [\\x00-\\x10ffff]      -- universal: any character"
   ]
 
 rMacros :: CF -> [String]
