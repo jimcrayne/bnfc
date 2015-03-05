@@ -23,7 +23,7 @@ Installation
 
 To install bnfc from git:
 
-    git clone https://github.com/BNFC/bnfc.git
+    git clone https://github.com/jimcrayne/bnfc.git
     cd bnfc/source
     cabal install
 
