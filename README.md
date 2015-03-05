@@ -48,8 +48,8 @@ Here is how to build and run the different test suites for bnfc.
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/BNFC/bnfc/issues
-- Source Code: https://github.com/BNFC/bnfc
+- Issue Tracker: https://github.com/jimcrayne/bnfc/issues
+- Source Code: https://github.com/jimcrayne/bnfc
 
 Support
 -------
