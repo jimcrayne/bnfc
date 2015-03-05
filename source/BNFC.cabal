@@ -1,5 +1,5 @@
 Name: BNFC
-Version: 2.7.1
+Version: 2.7.1-jc
 cabal-version: >= 1.8
 build-type: Simple
 category: Development
@@ -8,7 +8,7 @@ License: GPL-2
 License-File: LICENSE
 Maintainer: bnfc-dev@googlegroups.com
 Homepage: http://bnfc.digitalgrammars.com/
-bug-reports: https://github.com/BNFC/bnfc/issues
+bug-reports: https://github.com/jimcrayne/bnfc/issues
 Synopsis: A compiler front-end generator.
 Description:
   The BNF Converter is a compiler construction tool generating a compiler front-end
@@ -26,7 +26,7 @@ Extra-source-files: src/BNF.cf TODO changelog
 
 Source-repository head
   type: git
-  location: https://github.com/BNFC/bnfc.git
+  location: https://github.com/jimcrayne/bnfc.git
   subdir: source
 
 Library
